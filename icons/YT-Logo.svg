@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="YT-Logo.svg"
+   inkscape:export-filename="L:\Develop\CS\YTManager\icons\YT-Logo-72.png"
+   inkscape:export-xdpi="27.000002"
+   inkscape:export-ydpi="27.000002">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="167.13848"
+     inkscape:cy="182.49201"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect881"
+       width="67.73333"
+       height="67.73333"
+       x="-9.7699626e-15"
+       y="-7.1054274e-15"
+       sodipodi:insensitive="true" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 5.4509609,19.817218 4.8433431,22.675834 H 12.428987 L 9.5562729,36.167861 c -1.7024465,7.99573 4.2746271,10.391174 8.0760841,10.391174 7.488025,-1e-6 11.144905,-5.493868 12.080165,-9.908017 l 3.56671,-16.8338 h -3.207235 l -3.451168,16.31568 c -1.135066,5.366116 -5.141346,7.381465 -8.62335,7.425072 -3.394335,0.04251 -6.27311,-1.951886 -5.194151,-7.327125 l 3.294669,-16.413627 z"
+       id="path853"
+       sodipodi:nodetypes="cccsssccssscc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 26.28976,37.611239 -3.441587,15.859078 c -0.93814,4.323013 -3.297327,5.590941 -6.65394,5.594107 H 5.2442553 L 4.5665989,62.252546 H 15.699071 c 7.81434,0 9.507909,-4.387708 10.3782,-8.496351 L 29.52332,37.487396 Z"
+       id="path855"
+       sodipodi:nodetypes="cssccsscc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000000"
+       d="m 33.104882,5.5486172 -0.657351,3.092593 H 64.56868 l 0.657351,-3.092593 z"
+       id="path857"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 48.85931,5.5486172 40.142276,46.559035 h 3.289212 L 52.148522,5.5486172 Z"
+       id="path861"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

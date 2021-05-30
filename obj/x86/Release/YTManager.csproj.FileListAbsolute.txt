@@ -1,0 +1,11 @@
+L:\Develop\CS\YTManager\bin\x86\Release\YT.exe
+L:\Develop\CS\YTManager\bin\x86\Release\YT.pdb
+L:\Develop\CS\YTManager\bin\x86\Release\Gma.System.MouseKeyHook.dll
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.csprojAssemblyReference.cache
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.Form1.resources
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.Properties.Resources.resources
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.csproj.GenerateResource.cache
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.csproj.CoreCompileInputs.cache
+L:\Develop\CS\YTManager\obj\x86\Release\YTManager.csproj.CopyComplete
+L:\Develop\CS\YTManager\obj\x86\Release\YT.exe
+L:\Develop\CS\YTManager\obj\x86\Release\YT.pdb
